@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "WAC",
+        "country": "Morocco"
+    },
+    {
+        "id": 2,
+        "name": "RCA",
+        "country": "Morocco"
+    },
+    {
+        "id": 3,
+        "name": "ASFAR",
+        "country": "Morocco"
+    }
+]
